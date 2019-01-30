@@ -20,7 +20,7 @@ li {
   }
   
   body{
-    background-image:  url("../img/bg_sm.jpg");
+    background-image:  url("../img/bg_sm.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
@@ -28,7 +28,7 @@ li {
 }
 
 .burger-pic{
-    background-image:  url('../img/b1-s.png');
+    background-image:  url('../img/b2.png');
 }
 
 .burger-menu{
